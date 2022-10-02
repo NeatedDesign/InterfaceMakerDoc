@@ -1,17 +1,17 @@
-.. Starship Generator documentation master file, created by
-   sphinx-quickstart on Mon Aug  8 13:37:25 2022.
+.. Interface Maker documentation master file, created by
+   sphinx-quickstart on Thu October  2 12:32:02 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-The Starship Generator
+Interface Maker
 ==============================================
 
 
 .. image:: images/sg_promo.gif
-  :alt: Starship Generator at work
+  :alt: Interface Maker
 
 ---------------------------------
-What is the Starship Generator?
+What is the Interface Maker?
 ---------------------------------
 
 
