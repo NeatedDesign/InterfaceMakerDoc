@@ -7,7 +7,7 @@ Interface Maker
 ==============================================
 
 
-.. image:: images/sg_promo.gif
+.. image:: images/im.png
   :alt: Interface Maker
 
 ---------------------------------
