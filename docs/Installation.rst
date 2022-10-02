@@ -101,7 +101,7 @@ Limitations
 ---------------------------------
 Use Royalty-Free
 ---------------------------------
-You are welcome to use the Starship Generator in any of your work, commercial or otherwise.  We'd love to hear how you are using it!
+You are welcome to use the Interface Maker in any of your work, commercial or otherwise.  We'd love to hear how you are using it!
 
 ---------------------------------
 Questions or Comments?
