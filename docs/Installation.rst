@@ -17,7 +17,7 @@ Installation
 #. Then, click the *Add Asset Library* button.
 #. Go to *Asset Browser* And select InterfaceMaker on the category
 
-.. image:: images/install_screen.jpg
+.. image:: images/installAssetbrowser.png
   :alt: Starship Generator Installed
 
 If you have any issues do not hesitate to get in touch via `info@configurate.net <mailto:info@configurate.net>`_.
