@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Starship Generator'
-copyright = '2022, Mark Kingsnorth'
-author = 'Mark Kingsnorth'
+project = 'Interface Maker'
+copyright = '2022, Corwin CHABIN Neated'
+author = 'Neated - Corwin CHABIN'
 
 
 # -- General configuration ---------------------------------------------------
