@@ -10,12 +10,12 @@ Installation
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8MUzwM9OvMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #. Go to *Edit* -> *Preferences*.
-#. Select the *Add-ons* tab on the left if it is not already.
-#. Select the *Install...* button along the top.
-#. This will open a file dialog. Navigate to where you have downloaded the **starship_generator.vX.X.X.install_me.zip** file.  Do not unzip this file.
-#. Then, click the *Install add-on from file* button.
-#. Search for the add-on by typing *Starship Generator* in the search box if it does not already appear.
-#. Make sure the checkbox next to the Add-on (*Add: Starship Generator*) is ticked:
+#. Select the *File Paths* tab on the left if it is not already.
+#. Select the *Asset Libraries* category.
+#. Click on "+" button
+#. This will open a file dialog. Navigate to where you have downloaded the **InterfaceMaker_install_me.Blend** file.  Do not unzip this file.
+#. Then, click the *Add Asset Library* button.
+#. Go to *Asset Browser* And select InterfaceMaker on the category
 
 .. image:: images/install_screen.jpg
   :alt: Starship Generator Installed
