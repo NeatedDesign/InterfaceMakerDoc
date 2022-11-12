@@ -6,6 +6,9 @@ Image Mask
 The smallest heading
 ######
 
+- George Washington
+- John Adams
+- Thomas Jefferson
 
 |install_video|
 
