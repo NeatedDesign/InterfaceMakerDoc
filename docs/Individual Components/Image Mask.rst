@@ -1,6 +1,6 @@
-#############
+#
 Image Mask
-#############
+#
 
 ######
 The smallest heading
