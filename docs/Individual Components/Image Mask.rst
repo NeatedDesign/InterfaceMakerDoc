@@ -2,6 +2,8 @@
 Image Mask
 ####
 
+> Rules:
+
 Rules :
 - Width
 - Height
