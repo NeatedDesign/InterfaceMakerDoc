@@ -6,9 +6,19 @@ Image Mask
 The smallest heading
 ######
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+Rules :
+- Width
+- Height
+- Object
+- Scale
+- Image Position
+  -x
+  -y
+  -z 
+- Radius
+- Radius
+- Bevel Count
+-
 
 |install_video|
 
