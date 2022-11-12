@@ -1,6 +1,6 @@
-###
+####
 Image Mask
-###
+####
 
 ######
 The smallest heading
@@ -19,7 +19,6 @@ Rules :
 - Radius
 - Radius
 - Bevel Count
--
 
 |install_video|
 
