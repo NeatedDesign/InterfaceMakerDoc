@@ -2,10 +2,6 @@
 Image Mask
 ####
 
-######
-The smallest heading
-######
-
 Rules :
 - Width
 - Height
