@@ -2,7 +2,9 @@
 Image Mask
 #############
 
-###### The smallest heading
+######
+The smallest heading
+######
 
 
 |install_video|
